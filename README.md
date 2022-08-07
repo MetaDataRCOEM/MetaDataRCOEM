@@ -43,18 +43,18 @@ Smart Automation
 ---
 ## Team ▶️
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=aadi-byte&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=aadi-byte&data=followers,repositories,stars,commits)](https://github.com/aadi-byte)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Anjali2201&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Anjali2201&data=followers,repositories,stars,commits)](https://github.com/Anjali2201)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Akshat1308&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Akshat1308&data=followers,repositories,stars,commits)](https://github.com/Akshat1308)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=RudraPratik30&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=RudraPratik30&data=followers,repositories,stars,commits)](https://github.com/RudraPratik30)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=SFarazH&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=SFarazH&data=followers,repositories,stars,commits)](https://github.com/SFarazH)
 
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=RndmCodeGuy20&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=RndmCodeGuy20&data=followers,repositories,stars,commits)](https://github.com/RndmCodeGuy20)
 
 ---
 

@@ -43,30 +43,19 @@ Smart Automation
 ---
 ## Team ▶️
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=aadi-byte&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Anjali2201&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Akshat1308&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=RudraPratik30&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=SFarazH&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=RndmCodeGuy20&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
-<div class="github-card" data-github="RndmCodeGuy20" data-width="400" data-height="150" data-theme="default"></div>
-
-
-<div class="github-card" data-github="aadi-byte" data-width="400" data-height="" data-theme="default"></div>
-
-
-
-<div class="github-card" data-github="RudraPratik30" data-width="400" data-height="" data-theme="default"></div>
-
-
-<div class="github-card" data-github="Akshat1308" data-width="400" data-height="" data-theme="default"></div>
-
-
-<div class="github-card" data-github="Anjali2201" data-width="400" data-height="" data-theme="default"></div>
-
-
-<div class="github-card" data-github="SFarazH" data-width="400" data-height="" data-theme="default"></div>
-
-
-
-<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 ---
 
 ![Built by](https://ForTheBadge.com/images/badges/built-by-developers.svg)

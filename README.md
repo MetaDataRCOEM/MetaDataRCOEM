@@ -4,7 +4,7 @@
 
 ## About Us
 
-![alt](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
+![header](assets/header.png)
 
 - ### Problem Statement ▶️
 
